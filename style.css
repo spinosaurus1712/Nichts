@@ -1,0 +1,40 @@
+body{
+  background: #353535;
+  overflow: hidden;
+  background-image: url("wald.jpg");
+  background-size: 140%;
+  color: white;
+  font-family: Calibri;
+}
+
+h1 {
+font-family: "Brush Script MT", cursive;
+text-shadow: 3px 3px 25px black;
+font-size: 70px;
+background-image: url(sterne.jpeg);
+background-size: 100px;
+background-repeat: repeat;
+color: transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+text-align: center;
+}
+video {
+	float: top;
+	
+}
+html { overflow-y: scroll; }
+body { position: absolute; }
+
+video {
+	float:center;
+}
+#Trailer {
+	float:center;
+}
+
+#Bild {
+  float: right;
+  border-radius: 60px;
+  box-shadow: 5px 5px 2px grey;
+}
